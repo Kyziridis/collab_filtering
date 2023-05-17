@@ -5,7 +5,7 @@
 ## FastAPI Endpoint for Incoming Streams
 
 
-This project was developed in a `Lenovo T430` machine with `8GB` memory and an `Intel(R) Core(TM) i5-3320M CPU @ 2.60GHz` cpu.
+This project was developed in a `Lenovo T430` machine with `8GB` ram and an `Intel(R) Core(TM) i5-3320M CPU @ 2.60GHz` cpu.
 
 The software is an API endpoint which receives streams from users.
 
